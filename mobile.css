@@ -1,0 +1,25 @@
+/* After showcase part */
+.add-type,
+.add-color {
+  width: 40%;
+}
+.add-description {
+  width: 83%;
+  margin-top: 5px;
+}
+.add-value {
+  width: 50%;
+  margin-top: 5px;
+}
+
+/* Bottom part containing list of Expenses and income*/
+
+.container {
+  width: 95%;
+}
+
+.income,
+.expenses {
+  float: none;
+  width: 95%;
+}
